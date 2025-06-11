@@ -4,8 +4,8 @@ import re
 import os
 
 # 目标URL列表
-urls = ['https://cf.vvhan.com','https://ip.164746.xyz' ]
-#'https://api.uouin.com/cloudflare.html',
+urls = ['https://cf.090227.xyz' ]
+#'https://api.uouin.com/cloudflare.html','https://ip.164746.xyz'
 
 # 正则表达式用于匹配IP地址
 ip_pattern = r'\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}'
